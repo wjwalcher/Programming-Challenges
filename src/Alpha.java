@@ -14,7 +14,7 @@ public class Alpha {
 		Doesn't Work, because it is a private method.
 		Can only be called inside of class Delta*/
 		Epsilon epsilonObject = new Epsilon(4);
-		System.out.println(epsilonObject);
+		System.out.println(epsilonObject.finalVariable);
 		gammaObject = new Gamma();
 		betaObject = new Gamma();
 		gammaObject.methodF();
