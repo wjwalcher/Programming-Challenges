@@ -1,0 +1,11 @@
+
+public class ParOP {
+	public static void main(String[] args){
+		
+	}
+	public static String zeroParams() {
+		System.out.println("Connor might as well be a trained monkey.");
+		return "Connor might as well be a trained monkey.";
+	}
+}
+

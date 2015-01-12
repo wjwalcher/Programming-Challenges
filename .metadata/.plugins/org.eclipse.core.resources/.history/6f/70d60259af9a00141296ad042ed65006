@@ -1,0 +1,15 @@
+
+public class ROR {
+	public static void main(String[] args){
+		final Integer x = returnsInteger();
+		System.out.println(x);
+		System.out.println(returnsString());
+	}
+	public static Integer returnsInteger(){
+		return 9;
+	}
+	public static String returnsString(){
+		return "It doesn't do anything Will! When will you learn!?!";
+	}
+}
+ 

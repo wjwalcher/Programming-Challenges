@@ -1,0 +1,11 @@
+
+public class ROR {
+	public static void main(String[] args){
+		final Integer x = returnsInteger();
+		System.out.println(x);
+	}
+	public static Integer returnsInteger(){
+		return 9;
+	}
+}
+ 
